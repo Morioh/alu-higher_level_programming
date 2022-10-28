@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-def pow(a, b):
-    power = a**b
-    return (power)
+def add(a, b):
+    sum = a + b
+    return (sum)
