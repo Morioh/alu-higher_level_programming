@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 # function that finds all multiples of 2 in a list
 
