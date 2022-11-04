@@ -9,6 +9,3 @@ def print_matrix_integer(matrix=[[]]):
             if j < len(i) - 1:
                 print(" ", end="")
         print("")
-
-    
-
